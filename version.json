@@ -1,5 +1,5 @@
 {
   "version": "1.0.0",
-  "pck_url": "https://github.com/YOUR_USERNAME/maranza_game/releases/download/v1.0.1/maranza_game.pck",
-  "changelog": "Welcome to Maranza Game!\n\nNote: Change pck_url in version.json to the real link of your GitHub release for the .pck file, and then upload this file to GitHub."
+  "pck_url": "https://github.com/Eldoreth/maranza_game_launcher/releases/download/v1.0.0/maranza_game.pck",
+  "changelog": "Welcome to Maranza Game!"
 }
