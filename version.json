@@ -1,5 +1,5 @@
 {
-  "version": "1.24.2",
-  "pck_url": "https://github.com/Eldoreth/maranza_game_launcher/releases/download/v1.24.2/maranza_game.pck",
-  "changelog": "New update v1.24.2 successfully published!"
+  "version": "1.24.3",
+  "pck_url": "https://github.com/Eldoreth/maranza_game_launcher/releases/download/v1.24.3/maranza_game.pck",
+  "changelog": "Add custom Maranza icon to the launcher window title and Windows executable, and extract the latest changelog entry dynamically for the updates feed."
 }
