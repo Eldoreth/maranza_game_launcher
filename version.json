@@ -1,5 +1,5 @@
 {
-  "version": "1.24.3",
-  "pck_url": "https://github.com/Eldoreth/maranza_game_launcher/releases/download/v1.24.3/maranza_game.pck",
-  "changelog": "Add custom Maranza icon to the launcher window title and Windows executable, and extract the latest changelog entry dynamically for the updates feed."
+  "version": "1.24.4",
+  "pck_url": "https://github.com/Eldoreth/maranza_game_launcher/releases/download/v1.24.4/maranza_game.pck",
+  "changelog": "v1.24.4 - Format launcher update panel to list the last 3 versions alongside their version numbers, resolving update context visibility.\nv1.24.3 - Add custom Maranza icon to the launcher window title and Windows executable, and extract the latest changelog entry dynamically for the updates feed.\nv1.24.2 - Update export pipeline to generate version-specific ZIP filenames for itch.io and GitHub Releases, resolving download and display caching issues."
 }
