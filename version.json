@@ -1,5 +1,5 @@
 {
   "version": "1.24.6",
   "pck_url": "https://github.com/Eldoreth/maranza_game_launcher/releases/download/v1.24.6/maranza_game.pck",
-  "changelog": "v1.24.6 - Add pre-heat asset import caching step to CI/CD pipeline and configure it to use the opengl3 rendering driver to prevent headless texture compression glitches.\nv1.24.5 - Fix enemy spawner fallback to deleted old_lady config by updating default and fallback values to vecchia_mattarello in EnemySpawner.gd and Enemy.gd.\nv1.24.4 - Fix graphics glitches and incorrect prop/tile spawning on diagonal streets (Z-axis gaps) in CentroMapGenerator.gd."
+  "changelog": "v1.24.6 - Fix prop models fallback to placeholders in exported builds by replacing FileAccess.file_exists with ResourceLoader.exists in Prop.gd.\nv1.24.5 - Add pre-heat asset import caching step to CI/CD pipeline and configure it to use the opengl3 rendering driver to prevent headless texture compression glitches.\nv1.24.4 - Fix enemy spawner fallback to deleted old_lady config by updating default and fallback values to vecchia_mattarello in EnemySpawner.gd and Enemy.gd."
 }
