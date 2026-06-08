@@ -1,5 +1,5 @@
 {
-  "version": "1.24.5",
-  "pck_url": "https://github.com/Eldoreth/maranza_game_launcher/releases/download/v1.24.5/maranza_game.pck",
-  "changelog": "v1.24.5 - Upgrade CI/CD export workflow to Godot 4.6.2-stable and install Vulkan drivers to fix headless texture compression.\nv1.24.4 - Integrated new user feedback points concerning bugs, balancing, and features into bugs.md, balancing.md, and features.md.\nv1.24.3 - Format launcher update panel to list the last 3 versions alongside their version numbers, resolving update context visibility."
+  "version": "1.24.6",
+  "pck_url": "https://github.com/Eldoreth/maranza_game_launcher/releases/download/v1.24.6/maranza_game.pck",
+  "changelog": "v1.24.6 - Fix launcher build export path in CI/CD pipeline by using absolute GITHUB_WORKSPACE paths.\nv1.24.5 - Migrate CI/CD pipeline to setup-godot to enable Vulkan/Mesa drivers access for headless texture compression.\nv1.24.4 - Implement wave enemy spawn capping via max_active_count and replace vecchia_borsetta stun with a 0.5s slow."
 }
