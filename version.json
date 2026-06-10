@@ -1,5 +1,5 @@
 {
-  "version": "1.24.6",
-  "pck_url": "https://github.com/Eldoreth/maranza_game_launcher/releases/download/v1.24.6/maranza_game.pck",
-  "changelog": "v1.24.6 - Adjust mirror prop explosion delay to 0.5s and implement red telegraphed warning ring for bleed damage.\nv1.24.5 - Fix prop models fallback to placeholders in exported builds by replacing FileAccess.file_exists with ResourceLoader.exists in Prop.gd.\nv1.24.4 - Add pre-heat asset import caching step to CI/CD pipeline and configure it to use the opengl3 rendering driver to prevent headless texture compression glitches."
+  "version": "1.24.7",
+  "pck_url": "https://github.com/Eldoreth/maranza_game_launcher/releases/download/v1.24.7/maranza_game.pck",
+  "changelog": "v1.24.7 - Fix 30% loading screen freeze by correcting line 71 indentation, CoinsLabel path lookup, and GameState autoload compile issue in HUD.gd.\nv1.24.6 - Update top HUD layout: move Cash, Kills, Ammo/Reloading labels to top right with size 12 font, shrink life/XP bar labels to fit, apply 50% transparency and square corners to all progress bars, and place wave timer label inside its progress bar with an 8px font.\nv1.24.5 - Revert post-processing quad render priority to -10 to restore transparent VFXs, particles, and area effects on top of cel-shading."
 }
