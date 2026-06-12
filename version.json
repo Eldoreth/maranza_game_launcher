@@ -1,5 +1,5 @@
 {
-  "version": "1.24.7",
-  "pck_url": "https://github.com/Eldoreth/maranza_game_launcher/releases/download/v1.24.7/maranza_game.pck",
-  "changelog": "v1.24.7 - Fix 30% loading screen freeze by correcting line 71 indentation, CoinsLabel path lookup, and GameState autoload compile issue in HUD.gd.\nv1.24.6 - Update top HUD layout: move Cash, Kills, Ammo/Reloading labels to top right with size 12 font, shrink life/XP bar labels to fit, apply 50% transparency and square corners to all progress bars, and place wave timer label inside its progress bar with an 8px font.\nv1.24.5 - Revert post-processing quad render priority to -10 to restore transparent VFXs, particles, and area effects on top of cel-shading."
+  "version": "1.25.0",
+  "pck_url": "https://github.com/Eldoreth/maranza_game_launcher/releases/download/v1.25.0/maranza_game.pck",
+  "changelog": "v1.25.0 - Group all halftone settings in a styled panel, replace boundary checkbox with slider, make color modes vibrant and distinct, and reposition Reset button to bottom.\nv1.24.7 - Fix manga dither dither color modes (One Color, Chroma Bleeding, Complementary Tinting) rendering all black by decoupling dot color calculations from zeroed shadow clamp settings.\nv1.24.6 - Fix Pause Menu settings dropdown clickability and CheckBox layout visibility bugs by flattening nested container hierarchies."
 }
